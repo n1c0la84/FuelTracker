@@ -1,0 +1,32 @@
+abbellire DetailActivity ed implementare modify(non la data) e delete
+modificare db per aggiungere rif. saltato e campo mese
+
+rivedere logica calcolo consumo: rif. prec. pieno, no rif. saltato, pieno
+implementare statistiche:
+- media rifornimenti/mese
+- media spesa/mese
+- media consumo
+- media costo
+- costo max
+- costo min
+fatte fare dal dbms con query group by
+select count/avg/max/min(campo)...group by mese
+
+rendere l'up navigation retrocompatibile almeno fino a gingerbread
+scrivere aiuto e sottomettere l'applicazione
+
+============================================
+qualità del codice:
+estrapolazione delle stringhe
+
+feature futuribili:
+tracking posizione
+layout a riquadri
+lazy loading
+cassetto
+grafici
+
+idee:
+bifuel
+multiauto
+admob
