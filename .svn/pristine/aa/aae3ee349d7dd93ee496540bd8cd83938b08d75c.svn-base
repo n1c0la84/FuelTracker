@@ -1,8 +1,0 @@
-<resources>
-
-    <string name="app_name">FuelTracker</string>
-    
-    <string name="activity_detail_title">Dettaglio</string>
-    <string name="activity_add_title">Aggiungi</string>
-
-</resources>
